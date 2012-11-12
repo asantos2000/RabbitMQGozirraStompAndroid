@@ -1,0 +1,9 @@
+# Welcome to the RabbitMQGozirraStompAndroid wiki!
+
+It's another Android Chat Application using STOMP protocol.
+
+### Gozirra - [http://www.germane-software.com/software/Java/Gozirra/](http://www.germane-software.com/software/Java/Gozirra/)
+Gozirra is a lightweight implementation of the Stomp specification. As of the first release it includes both client and server implementations for Java.
+
+### RabbitMQ Web Stomp - [http://www.rabbitmq.com/blog/2012/05/14/introducing-rabbitmq-web-stomp/](http://www.rabbitmq.com/blog/2012/05/14/introducing-rabbitmq-web-stomp/)
+It is basically a bridge between RabbitMQ-STOMP plugin and a Websockets server (SockJS). Hopefully, it is a decent solution for a set of rabbit-on-the-web use cases.
