@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="vertical"
+ android:layout_height="wrap_content"
+ android:layout_width="fill_parent">
+
+<ScrollView
+ android:layout_height="fill_parent"
+ android:layout_width="fill_parent">
+ <TextView
+ android:id="@+id/output"
+ android:layout_height="fill_parent"
+ android:layout_width="wrap_content"
+ />
+ </ScrollView>
+ <EditText
+ android:id="@+id/out3"
+ android:layout_height="70px"
+ android:layout_width="fill_parent"
+ android:layout_alignParentTop="true"
+ android:maxHeight="70px"
+ android:hint="Enter Name:"
+ android:inputType="textVisiblePassword"
+ />
+ <EditText
+ android:id="@+id/out2"
+ android:layout_height="70px"
+ android:layout_width="fill_parent"
+ android:layout_alignParentBottom="true"
+ android:maxHeight="70px"
+ android:inputType="textVisiblePassword"
+ />
+ </RelativeLayout>
